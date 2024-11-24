@@ -7,7 +7,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome untuk social media icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
 </head>
 <body>
     <!-- Navigation Bar -->
@@ -95,7 +95,7 @@
                     <tbody>
                         <tr>
                             <td>SMK Telkom Jakarta</td>
-                            <td>2022-Present</td>
+                            <td>2023-2025</td>
                             <td>Jurusan Rekayasa Perangkat Lunak</td>
                         </tr>
                         <!-- Add more rows as needed -->
@@ -158,7 +158,5 @@
         <p class="mb-0">&copy; 2024 My Portfolio. All rights reserved.</p>
     </footer>
 
-    <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
