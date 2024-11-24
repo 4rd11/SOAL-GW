@@ -1,0 +1,39 @@
+flowchart TD
+    A[Start] --> B[Persiapan Project]
+    B --> C[Setup Development Environment]
+    C --> D[Install VS Code]
+    C --> E[Download Bootstrap]
+    
+    E --> F[Membuat Struktur Website]
+    F --> G[Membuat Header]
+    G --> G1[Membuat Navigation Bar]
+    G1 --> G2[Menambah Menu About Me]
+    G2 --> G3[Menambah Menu Education]
+    G3 --> G4[Menambah Menu Find Me]
+    G4 --> G5[Menambah Menu Contact]
+    
+    F --> H[Membuat Konten]
+    H --> I[Membuat About Me Section]
+    I --> I1[Menambah Foto Profil]
+    I1 --> I2[Menambah Nama dan Kelas]
+    I2 --> I3[Menambah Video Perkenalan]
+    
+    H --> J[Membuat Education Section]
+    J --> J1[Membuat Tabel Pengalaman Organisasi]
+    J1 --> J2[Membuat Tabel Riwayat Pendidikan]
+    
+    H --> K[Membuat Find Me Section]
+    K --> K1[Menambah Informasi Kontak]
+    K1 --> K2[Menambah Social Media Icons]
+    
+    H --> L[Membuat Contact Form]
+    L --> L1[Membuat Input Nama]
+    L1 --> L2[Membuat Input Email]
+    L2 --> L3[Membuat Text Area Pesan]
+    L3 --> L4[Membuat Submit Button]
+    
+    F --> M[Membuat Footer]
+    M --> M1[Menambah Copyright]
+    
+    M1 --> N[Testing Website]
+    N --> O[End]
